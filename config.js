@@ -7,5 +7,11 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "2AE3iSRT#S3qxBqNxfCTD3AyunUrE2Mv-aJkeqMg9whXVJrnz5Cw",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://iili.io/2KVSNkv.jpg",
-ALIVE_MSG: process.env.ALIVE_MSG || "┏━━━━━━━━━━━➤◍◉➤\n│ *🔰𝐇𝐞𝐲 𝐈'𝐦 𝐀𝐯𝐢𝐬𝐡𝐤𝐚_𝐗-𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭⚡*\n┗━━━━━━━━━━━━━━━━━━━━\n━➤◍◉➤\n┏━━━━━━━━━━━➤◍◉➤\n│ *🔔𝐈'𝐦 𝐀𝐥𝐢𝐯𝐞 𝐍𝐨𝐰❤️*\n┗━━━━━━━━━━\n━➤◍◉➤\n┏━━━━━━━━━━━➤◍◉➤\n│ *⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : 𝐀𝐯𝐢𝐬𝐡𝐤𝐚_𝐗 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲|*\n┗━━━━━━━━━━━━━━━━━━━━\n\n*2024🤍*"  
+ALIVE_MSG: process.env.ALIVE_MSG || "┏━━━━━━━━━━━➤◍◉➤\n│ *🔰𝐇𝐞𝐲 𝐈'𝐦 𝐀𝐯𝐢𝐬𝐡𝐤𝐚_𝐗-𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭⚡*\n┗━━━━━━━━━━━━━━━━━━━━\n━➤◍◉➤\n┏━━━━━━━━━━━➤◍◉➤\n│ *🔔𝐈'𝐦 𝐀𝐥𝐢𝐯𝐞 𝐍𝐨𝐰❤️*\n┗━━━━━━━━━━\n━➤◍◉➤\n┏━━━━━━━━━━━➤◍◉➤\n│ *⚖️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : 𝐀𝐯𝐢𝐬𝐡𝐤𝐚_𝐗 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲|*\n┗━━━━━━━━━━━━━━━━━━━━\n\n*2024🤍*"
+AUTO_BIO: process.env.AUTO_BIO || "false",
+ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "unavailable",
+AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
+AUTO_TYPING:"true",
+MODE: process.env.MODE || "public",
+AUTO_VOICE:"true",
 };
