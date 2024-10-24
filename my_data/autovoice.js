@@ -7,7 +7,7 @@
 "Hi":"https://github.com/DarkYasiyaofc/VOICE/blob/main/hi.mp3?raw=true",
 "Mk":"https://github.com/DarkYasiyaofc/VOICE/blob/main/mk.mp3?raw=true",
 "Pissuda":"https://github.com/DarkYasiyaofc/VOICE/blob/main/pissuda.mp3?raw=true",
-"Hi":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hi2.opus",
+"Hi":"https://www.cloudkp.com/p/pk.html?f=dhgghpmnlhjnmothnmopl7&m=1",
 "Hukapan":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hukapan.mp3",
 "Hutto":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hutto.mp3"
 }
