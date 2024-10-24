@@ -1,10 +1,13 @@
 {
-"bs": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Bs(tbg).mp3?raw=true",
-"gm": "https://github.com/DarkYasiyaofc/VOICE/blob/main/GM(tbg).mp3?raw=true",
-"gn": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Gn(tbg).mp3?raw=true",
-"hmm": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Hmm(tbg).mp3?raw=true",
-"ponnaya": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Ponnaya(tbg).mp3?raw=true",
-"hi": "https://github.com/DarkYasiyaofc/VOICE/blob/main/hi.mp3?raw=true",
-"mk": "https://github.com/DarkYasiyaofc/VOICE/blob/main/mk.mp3?raw=true",
-"pissuda": "https://github.com/DarkYasiyaofc/VOICE/blob/main/pissuda.mp3?raw=true"
+"Bs": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Bs(tbg).mp3?raw=true",
+"Gm": "https://github.com/DarkYasiyaofc/VOICE/blob/main/GM(tbg).mp3?raw=true",
+"Gn": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Gn(tbg).mp3?raw=true",
+"Hmm": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Hmm(tbg).mp3?raw=true",
+"Ponnaya": "https://github.com/DarkYasiyaofc/VOICE/blob/main/Ponnaya(tbg).mp3?raw=true",
+"Hi": "https://github.com/DarkYasiyaofc/VOICE/blob/main/hi.mp3?raw=true",
+"Mk": "https://github.com/DarkYasiyaofc/VOICE/blob/main/mk.mp3?raw=true",
+"Pissuda": "https://github.com/DarkYasiyaofc/VOICE/blob/main/pissuda.mp3?raw=true",
+"Hi": "https://github.com/Avishka-web/Av/raw/refs/heads/main/hi2.opus",
+"Hukapan": "https://github.com/Avishka-web/Av/raw/refs/heads/main/hukapan.mp3",
+"Hutto": "https://github.com/Avishka-web/Av/raw/refs/heads/main/hutto.mp3"
 }
