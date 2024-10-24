@@ -9,5 +9,5 @@
 "Pissuda":"https://github.com/DarkYasiyaofc/VOICE/blob/main/pissuda.mp3?raw=true",
 ".alive":"https://github.com/Avishka-web/Ak/raw/refs/heads/main/autovoice/hi2.mp3",
 "Hukapan":"https://github.com/Avishka-web/Ak/raw/refs/heads/main/autovoice/hukapan.mp3",
-"Hutto":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hutto.mp3?raw=true"
+"Hutto":"https://github.com/Avishka-web/Ak/raw/refs/heads/main/autovoice/hutto.mp3"
 }
