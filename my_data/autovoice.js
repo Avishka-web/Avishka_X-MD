@@ -7,7 +7,7 @@
 "Hi":"https://github.com/DarkYasiyaofc/VOICE/blob/main/hi.mp3?raw=true",
 "Mk":"https://github.com/DarkYasiyaofc/VOICE/blob/main/mk.mp3?raw=true",
 "Pissuda":"https://github.com/DarkYasiyaofc/VOICE/blob/main/pissuda.mp3?raw=true",
-"Hi":"https://github.com/Avishka-web/Av/blob/6796d81430be2c35739929ac846d2dc8cf71c873/hi2.opus",
-"Hukapan":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hukapan.mp3",
-"Hutto":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hutto.mp3"
+"Hi":"https://github.com/Avishka-web/Av/blob/6796d81430be2c35739929ac846d2dc8cf71c873/hi2.opus?raw=true",
+"Hukapan":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hukapan.mp3?raw=true",
+"Hutto":"https://github.com/Avishka-web/Av/raw/refs/heads/main/hutto.mp3?raw=true"
 }
